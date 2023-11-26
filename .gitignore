@@ -1,0 +1,4 @@
+school/config.py
+school/__pycache__/
+school/migrations/
+website/__pycache__/
